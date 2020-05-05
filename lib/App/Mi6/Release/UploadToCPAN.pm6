@@ -1,4 +1,4 @@
-use v6.c;
+use v6.d;
 unit class App::Mi6::Release::UploadToCPAN;
 use CPAN::Uploader::Tiny;
 use App::Mi6::Util;

@@ -1,4 +1,4 @@
-use v6.c;
+use v6.d;
 unit class App::Mi6::INI;
 
 # Copy from https://github.com/tadzik/perl6-Config-INI

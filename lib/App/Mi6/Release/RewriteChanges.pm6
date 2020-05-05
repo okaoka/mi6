@@ -1,4 +1,4 @@
-use v6.c;
+use v6.d;
 unit class App::Mi6::Release::RewriteChanges;
 
 method run(:$next-version, :$release-date) {

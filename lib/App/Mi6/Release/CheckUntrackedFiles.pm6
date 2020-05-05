@@ -1,4 +1,4 @@
-use v6.c;
+use v6.d;
 use App::Mi6::Util;
 unit class App::Mi6::Release::CheckUntrackedFiles;
 
